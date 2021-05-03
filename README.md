@@ -8,7 +8,7 @@ The **performance.py** script aim to test the performance of a concptual aircraf
 
 ### Long Story Short 
 
-The script generate the curve a O.S 55 engine measured in wind tunnel and compare with the *Roskam algorithm* results, like the **Figure 01** shows, it's possbile to find out the maximum and de minimum flight speed. The **Figure 02** ilustrate the resulting *V-N Diagram*. The final results are showed next the **Figure 02**.
+The script generate the curve a O.S 55 engine measured in wind tunnel and compare with the *Roskam algorithm* results, as the **Figure 01** shows, it's possbile to find out the maximum and de minimum flight speed. The **Figure 02** ilustrate the resulting *V-N Diagram*. The final results are showed next the **Figure 02**.
 
 ![performance](/images/thurst_performance.png)
 **Figure 01**
